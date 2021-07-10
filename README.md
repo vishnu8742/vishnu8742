@@ -15,7 +15,9 @@ FMCL is a cricket tournaments management and stats app where all matches records
 
 ### Preview : 
 
-![https://play.google.com/store/apps/details?id=com.fmcl](https://live.staticflickr.com/65535/51301948426_35c7cf8a77_b.jpg)
+![FMCL](https://live.staticflickr.com/65535/51301948426_35c7cf8a77_b.jpg)
+
+[link to App!](https://play.google.com/store/apps/details?id=com.fmcl)
 
 ## Alegra Ads
 
@@ -23,7 +25,10 @@ Alegra ads is a local listings directory app which is available to shops and ser
 
 ### Preview : 
 
-![https://play.google.com/store/apps/details?id=com.alegra](https://live.staticflickr.com/65535/51302958855_7a3d994ffc_b.jpg)
+![Alegra Ads](https://live.staticflickr.com/65535/51302958855_7a3d994ffc_b.jpg)
+
+[link to App!](https://play.google.com/store/apps/details?id=com.alegra)
+
 
 ## Unnathi / AdMyRaw
 
