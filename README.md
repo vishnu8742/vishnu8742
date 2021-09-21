@@ -1,7 +1,7 @@
 ![GitHub stats](https://raw.githubusercontent.com/vishnu8742/github-stats-transparent/output/generated/overview.svg)
 ![Top Langs](https://raw.githubusercontent.com/vishnu8742/github-stats-transparent/output/generated/languages.svg)
 
-Hello,
+<!-- Hello,
 
 My Name is Vishnu. 
 
@@ -38,5 +38,5 @@ Unnathi Milk / AdMyRaw is a subscription based Dairy, grocery delivery app. It h
 
 ![Unnathi Milk](https://live.staticflickr.com/65535/51301202592_b6198c92c8_b.jpg)
 
-These are the few projects I have worked and many other projects I didn't have any screenshots or live web/app addresses to show. 
+These are the few projects I have worked and many other projects I didn't have any screenshots or live web/app addresses to show.  -->
 
