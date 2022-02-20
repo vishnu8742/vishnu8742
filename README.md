@@ -1,5 +1,5 @@
-![GitHub stats](https://raw.githubusercontent.com/vishnu8742/github-stats-transparent/output/generated/overview.svg)
-![Top Langs](https://raw.githubusercontent.com/vishnu8742/github-stats-transparent/output/generated/languages.svg)
+<!-- ![GitHub stats](https://raw.githubusercontent.com/vishnu8742/github-stats-transparent/output/generated/overview.svg)
+![Top Langs](https://raw.githubusercontent.com/vishnu8742/github-stats-transparent/output/generated/languages.svg) -->
 
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h3 align="center">MERN, PHP, Laravel Developer</h3>
