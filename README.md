@@ -1,6 +1,7 @@
 ![GitHub stats](https://raw.githubusercontent.com/vishnu8742/github-stats-transparent/output/generated/overview.svg)
 ![Top Langs](https://raw.githubusercontent.com/vishnu8742/github-stats-transparent/output/generated/languages.svg)
 
+I'm Vishnu and I'm a PHP, Laravel, MERN stack developer worked on 15+ projects mainly focussed on backend part of the develpement.
 <!-- Hello,
 
 My Name is Vishnu. 
