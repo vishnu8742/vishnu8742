@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [EstateDekho](https://estatedekho.com)
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **How sockets work**
 
-- 💬 Ask me about **Nodejs, Laravel**
+- 💬 Ask me about **ReactJS, Nodejs, Laravel**
 
 - 📫 How to reach me **vishnu8742+gh@gmail.com**
 
-- ⚡ Fun fact **I can't sleep until I solve the bug.**
+- ⚡ Fun fact **I don't remember syntax but I will code on trial and error basis.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
