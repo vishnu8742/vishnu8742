@@ -2,9 +2,9 @@
 ![Top Langs](https://raw.githubusercontent.com/vishnu8742/github-stats-transparent/output/generated/languages.svg) -->
 
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
-<h3 align="center">MERN, PHP, Laravel Developer</h3>
+<h3 align="center">Full Stack Developer with Nodejs, PHP, Laravel, ReactJS.</h3>
 
-- 🔭 I’m currently working on [EstateDekho](https://estatedekho.com)
+- 🔭 I’m currently working on Laravel & ReactJS.
 
 - 🌱 I’m currently learning **How sockets work**
 
