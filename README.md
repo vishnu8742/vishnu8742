@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h3 align="center">Full Stack Developer with Nodejs, PHP, Laravel, ReactJS.</h3>
 
-- 🔭 I’m currently working on Laravel & ReactJS.
+- 🔭 I’m currently working on Nodejs, Laravel & ReactJS.
 
 - 🌱 I’m currently learning **How sockets work**
 
