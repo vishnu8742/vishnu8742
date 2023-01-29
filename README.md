@@ -2,17 +2,17 @@
 ![Top Langs](https://raw.githubusercontent.com/vishnu8742/github-stats-transparent/output/generated/languages.svg) -->
 
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
-<h3 align="center">Full Stack Developer with Nodejs, PHP, Laravel, ReactJS.</h3>
+<h3 align="center">Full Stack Developer with Nodejs, PHP, Laravel, ReactJS, NextJs.</h3>
 
 - 🔭 I’m currently working on Nodejs, Laravel & ReactJS.
 
-- 🌱 I’m currently learning **How sockets work**
+- 🌱 I’m currently working/learning on **Continuous Development & Integration**
 
 - 💬 Ask me about **ReactJS, Nodejs, Laravel**
 
 - 📫 How to reach me **vishnu8742+gh@gmail.com**
 
-- ⚡ Fun fact **I don't remember syntax but I will code on trial and error basis.**
+- ⚡ Fun fact **I once thought java & java script are same.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
