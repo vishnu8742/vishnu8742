@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Nodejs, Laravel & ReactJS.
 
-- 🌱 I’m currently working/learning on **React Native IOS Development**
+- 🌱 I’m currently working/learning on **Angular JS**
 
 - 💬 Ask me about **ReactJS, Nodejs, Laravel**
 
