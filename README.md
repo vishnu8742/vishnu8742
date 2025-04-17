@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h3 align="center">Full Stack Developer with Nodejs, PHP, Laravel, ReactJS, NextJs.</h3>
 
-- 🔭 I’m currently working on Nodejs, Laravel & ReactJS.
+- 🔭 I’m currently working on FastAPI, Postgresql, Kafka.
 
-- 🌱 I’m currently working/learning on **Angular JS**
+- 🌱 I’m currently working/learning on **Python**
 
 - 💬 Ask me about **ReactJS, Nodejs, Laravel**
 
